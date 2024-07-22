@@ -18,27 +18,30 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am a Software Engineer with industry experience of 2 years.
-              I will be joining Northeastern University this coming fall for my master's in Information Systems
+              I am a MSIS grad at Northeastern University, Boston.
+              I have previously worked as a Software Engineer for eQ Technologic, a US based computer software company.
               <br />
               <br />I am proficient with
               <i>
-                <b className="purple"> Javascript, Java and Python </b>
+                <b className="purple"> Javascript, Java, Python and C </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple">Web Technologies and Software Products </b> and
                 I am interested in exploring{" "}
                 <b className="purple">
-                  how complex Big data applications are built.
+                  how complex Big data applications are built and learning more about network structures and cloud computing.
                 </b>
               </i>
               <br />
               <br />
-              I have previously worked in the UI team of a web product, designing, developing and taking ownership of more than 15 end to end
+              I have previously worked in the UI team of a web product where I have designed, developed and took ownership of more than 15 end to end
               modules.
+              <br/>
+              <br/>
+              I have also conducted and successfully delivered many POCs while at eQ.
               <br/>
               <br/>
               I have primarily worked in 
@@ -63,14 +66,13 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
             <p>
               Feel free to <span className="purple">connect </span>with me
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/fluffyguy-prog"
+                  href="https://github.com/aayush-sawant"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
